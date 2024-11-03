@@ -4,6 +4,8 @@
 
 Recursos Principais:
 
-    Geração de Código com Llama3: Integração com o modelo de linguagem Llama3 para autocompletar, gerar e corrigir código. Este recurso é ideal para desenvolvedores que desejam otimizar a escrita de código com assistência de IA.
-    Interpretador de Python Embutido: Execute e teste scripts Python diretamente na plataforma sem a necessidade de configuração adicional. Isso é especialmente útil para prototipagem rápida e experimentos.
-    Ambiente Intuitivo e Interativo: Interface amigável, projetada para facilitar o uso e visualização do código e dos resultados.
+Geração de Código com Llama3: Integração com o modelo de linguagem Llama3 para autocompletar, gerar e corrigir código. Este recurso é ideal para desenvolvedores que desejam otimizar a escrita de código com assistência de IA.
+
+Interpretador de Python Embutido: Execute e teste scripts Python diretamente na plataforma sem a necessidade de configuração adicional. Isso é especialmente útil para prototipagem rápida e experimentos.
+
+Ambiente Intuitivo e Interativo: Interface amigável, projetada para facilitar o uso e visualização do código e dos resultados.
